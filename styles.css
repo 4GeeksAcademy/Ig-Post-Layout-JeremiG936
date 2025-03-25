@@ -1,0 +1,79 @@
+body {
+    background-color: black;
+}
+#post {
+    margin: auto;
+    background-color: white;
+    width: 350px;
+    height: 450px;
+    display: block;
+}
+#post-header {
+    width: 100%;
+    height: 50px;
+    display: flex;
+}
+i.fa-ellipsis-vertical {
+    font-size: 30px;
+    padding: 5px;
+    margin-left: 235px;
+    margin-top: 5px;
+}
+i.fa-html5 {
+    font-size: 30px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#post-header-text {
+    display: block;
+}
+#t1 {
+    font-size: 13px;
+    margin-top: 12px;
+}
+#t2 {
+    font-size: 13px;
+    margin-top: 0px;
+}
+#post-image {
+    width: 100%;
+    height: 200px;
+    background-image: url(https://files.algoreducation.com/production-ts/__S3__4c06b78a-746f-4597-a264-0fec8d25976f);
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+#post-body {
+    width: 100%;
+    height: 200px;
+}
+#post-body-icons {
+    width: 100%;
+    height: 50px;
+    display: flex;
+}
+i.fa-heart {
+    font-size: 33px;
+    padding: 5px;
+    margin-top: 5px;
+}
+i.fa-comment {
+    font-size: 33px;
+    padding: 5px;
+    margin-top: 5px;
+}
+i.fa-paper-plane {
+    font-size: 33px;
+    padding: 5px;
+    margin-top: 5px;
+}
+i.fa-bookmark {
+    font-size: 33px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-left: 170px;
+}
+#text {
+    font-size: 14px;
+}
